@@ -1,0 +1,27 @@
+* {
+    background-color: white;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: lightsalmon;
+    font-size: 40px;
+}
+
+ul {
+    background-color: aquamarine;
+    font-size: 14px;
+}
+
+.list {
+    border: 1px black;
+    font-size: 14px;
+}
+
+li, a, .list .links {
+    /* height: 300px; */
+    /* width: 600px; */
+    border: 1px rebeccapurple;
+    background-color: rebeccapurple;
+}
